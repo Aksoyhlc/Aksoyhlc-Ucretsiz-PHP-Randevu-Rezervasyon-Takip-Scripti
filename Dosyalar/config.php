@@ -1,14 +1,16 @@
 <?php 
 
 /*
+
 Bu yazılım aksoyhlc.net | satis.aksoyhlc.net tarafından geliştirilmiştir.
 
 Özel script, yazılım ve mobil uygulama işlemleriniz için
 aksoyhlc.net/iletisim iletişim formundan 
-
 0850 305 9257 Whatsapp destek hattından 
-
 iletişime geçebilirsiniz.
+
+Ücretsiz teknik destek VERİLMEMEKTEDİR.
+
 */
 
 
