@@ -6,5 +6,6 @@ Mail bilgilerini gorevler klasörü içerisindeki kontrol.php dosyasından,
 SMS bilgilerini fonksiyonlar.php dosyasından değiştirebilirsiniz
 
 #Giriş Bilgileri
+
 Mail: aksoyhlc@gmail.com
 Şifre: 123
